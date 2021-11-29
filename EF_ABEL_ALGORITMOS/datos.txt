@@ -1,0 +1,9 @@
+Id,Alumno,C1,C2,C3,C4
+1,Juan Ramirez,15,12,14,17
+2,Alessandro Rosas,6,18,13,14
+3,Heber Abanto,12,17,12,16
+4,Jaime Diaz,18,06,15,13
+5,Agustin Ullon,9,14,17,15
+6,Carlos Guijon,20,10,16,16
+7,Silvia Aguirre,13,18,12,13
+8,Karla Melendez,8,16,14,15
