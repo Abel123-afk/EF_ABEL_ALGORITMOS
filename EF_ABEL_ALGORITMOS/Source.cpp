@@ -33,6 +33,20 @@ public:
 	string getNombre() {
 		return nombre;
 	}
+	float getC1() {
+		return c1;
+	}
+	float getC2()
+	{
+		return c2;
+	}
+	float getC3()
+	{
+		return c3;
+	}
+	float getC4() {
+
+	}
 };
 class Controladora {
 private:
